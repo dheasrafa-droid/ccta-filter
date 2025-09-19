@@ -1,0 +1,13 @@
+export const Fuchsia = {
+  50:  0xfdf4ff,
+  100: 0xfae8ff,
+  200: 0xf5d0fe,
+  300: 0xf0abfc,
+  400: 0xe879f9,
+  500: 0xd946ef,
+  600: 0xc026d3,
+  700: 0xa21caf,
+  800: 0x86198f,
+  900: 0x701a75,
+  950: 0x4a044e,
+};
