@@ -1,0 +1,13 @@
+export const Red = {
+  50:  0xfef2f2,
+  100: 0xfee2e2,
+  200: 0xfecaca,
+  300: 0xfca5a5,
+  400: 0xf87171,
+  500: 0xef4444,
+  600: 0xdc2626,
+  700: 0xb91c1c,
+  800: 0x991b1b,
+  900: 0x7f1d1d,
+  950: 0x450a0a,
+};
