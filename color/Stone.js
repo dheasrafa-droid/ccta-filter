@@ -1,0 +1,13 @@
+export const Stone = {
+  50:  0xfffbf7,
+  100: 0xfff3e8,
+  200: 0xffe8d1,
+  300: 0xffd7aa,
+  400: 0xffc185,
+  500: 0xfebc60,
+  600: 0xfda640,
+  700: 0xf28c2c,
+  800: 0xd97706,
+  900: 0xb45309,
+  950: 0x78350f,
+};
