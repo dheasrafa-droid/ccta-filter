@@ -1,0 +1,13 @@
+export const Purple = {
+  50:  0xfaf5ff,
+  100: 0xf3e8ff,
+  200: 0xe9d5ff,
+  300: 0xd8b4fe,
+  400: 0xc084fc,
+  500: 0xa855f7,
+  600: 0x9333ea,
+  700: 0x7e22ce,
+  800: 0x6b21a8,
+  900: 0x581c87,
+  950: 0x3b0764,
+};
