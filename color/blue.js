@@ -1,0 +1,13 @@
+export const Blue = {
+  50:  0xeff6ff,
+  100: 0xdbeafe,
+  200: 0xbfdbfe,
+  300: 0x93c5fd,
+  400: 0x60a5fa,
+  500: 0x3b82f6,
+  600: 0x2563eb,
+  700: 0x1d4ed8,
+  800: 0x1e40af,
+  900: 0x1e3a8a,
+  950: 0x172554,
+};
