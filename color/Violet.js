@@ -1,0 +1,13 @@
+export const Violet = {
+  50:  0xf5f3ff,
+  100: 0xede9fe,
+  200: 0xddd6fe,
+  300: 0xc4b5fd,
+  400: 0xa78bfa,
+  500: 0x8b5cf6,
+  600: 0x7c3aed,
+  700: 0x6d28d9,
+  800: 0x5b21b6,
+  900: 0x4c1d95,
+  950: 0x2e1065,
+};
