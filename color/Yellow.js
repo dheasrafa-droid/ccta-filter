@@ -1,0 +1,13 @@
+export const Yellow = {
+  50:  0xfefce8,
+  100: 0xfef9c3,
+  200: 0xfef08a,
+  300: 0xfde047,
+  400: 0xfacc15,
+  500: 0xeab308,
+  600: 0xca8a04,
+  700: 0xa16207,
+  800: 0x854d0e,
+  900: 0x713f12,
+  950: 0x422006,
+};
