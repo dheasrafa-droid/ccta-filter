@@ -1,0 +1,13 @@
+export const Orange = {
+  50:  0xfff7ed,
+  100: 0xffedd5,
+  200: 0xfed7aa,
+  300: 0xfdba74,
+  400: 0xfb923c,
+  500: 0xf97316,
+  600: 0xea580c,
+  700: 0xc2410c,
+  800: 0x9a3412,
+  900: 0x7c2d12,
+  950: 0x431407,
+};
