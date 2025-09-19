@@ -1,0 +1,13 @@
+export const LightBlue = {
+  50:  0xf0f9ff,
+  100: 0xe0f2fe,
+  200: 0xbae6fd,
+  300: 0x7dd3fc,
+  400: 0x38bdf8,
+  500: 0x0ea5e9,
+  600: 0x0284c7,
+  700: 0x0369a1,
+  800: 0x075985,
+  900: 0x0c4a6e,
+  950: 0x082f49,
+};
